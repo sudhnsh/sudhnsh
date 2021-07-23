@@ -25,6 +25,7 @@
 <img src="cpp.png" alt="CPP" height="70" style="vertical-align:top; margin:4px">
 <img src="html.png" alt="HTML" height="70" style="vertical-align:top; margin:4px">
 <img src="py.png" alt="PYTHON" height="70" style="vertical-align:top; margin:4px">
+<img src="flutter.png" alt="FLUTTER" height="70" style="vertical-align:top; margin:4px">
 <img src="vs.png" alt="Visual Studio" height="70" style="vertical-align:top; margin:4px">
 </p>
 
