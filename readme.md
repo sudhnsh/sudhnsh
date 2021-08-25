@@ -3,14 +3,14 @@
 
 [![Github](https://img.shields.io/github/followers/sudhnsh?label=Follow&style=social)](https://github.com/sudhnsh) &nbsp; ![views](https://komarev.com/ghpvc/?username=sudhnsh)
 
-## 🎓 I'm a BE - Computer Science student at Thapar Institute
+##  I'm a BE - Computer Science student at Thapar Institute
 
 * 💡  I like to explore new technologies and develop software solutions and quick hacks.
-* 🌱  I'm on track for learning more about Artificial Intelligence, Web Development, and Augmented Reality.
+* 🌱  I'm on track for learning more about Software Engineering, Web Development, and Augmented Reality.
 * 👯 I’m looking to collaborate with anyone on projects.
 * 💬  Feel free to reach out to me for some interesting discussion.
 
-## ✉️ Find me on:
+##  Find me on:
 
 <p align="center">
  <a href="https://linkedin.com/in/sudhnsh"><img src="lld2.png" alt="LinkedIn" height="80" style="vertical-align:top; margin:4px"></a>
@@ -20,7 +20,7 @@
 
 <br />
 
-## 🧰 Languages and Tools:
+##  Languages and Tools:
 <p align="center">
 <img src="cpp.png" alt="CPP" height="70" style="vertical-align:top; margin:4px">
 <img src="html.png" alt="HTML" height="70" style="vertical-align:top; margin:4px">
