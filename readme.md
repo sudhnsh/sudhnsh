@@ -34,5 +34,5 @@
 
 ## ⚙️  GitHub Analytics
 
-![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhnsh&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhnsh&theme=dark)
+![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhnsh&theme=dark&show_icons=true) &nbsp; ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudhnsh&theme=dark&hide_border=true)
 
