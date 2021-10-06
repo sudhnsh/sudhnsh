@@ -13,9 +13,9 @@
 ##  Find me on:
 
 <p align="center">
- <a href="https://linkedin.com/in/sudhnsh"><img src="linkedin.png" alt="LinkedIn" height="70" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:sudhnsh16@gmail.com"> <img src="gmail1.png" alt="Gmail" height="70" style="vertical-align:top; margin:4px; padding:5px"></a>
- <a href="https://instagram.com/sudhnsh"> <img src="Insta1.png" alt="Instagram" height="70" style="vertical-align:top; margin:4px"></a>
+ <a href="https://linkedin.com/in/sudhnsh"><img src="linkedin.png" alt="LinkedIn" height="70" style="vertical-align:top; margin:4px; padding:8px"></a>
+ <a href="mailto:sudhnsh16@gmail.com"> <img src="gmail1.png" alt="Gmail" height="70" style="vertical-align:top; margin:4px; padding:8px"></a>
+ <a href="https://instagram.com/sudhnsh"> <img src="Insta1.png" alt="Instagram" height="70" style="vertical-align:top; margin:4px; padding:8px"></a>
 </p>
 
 <br />
