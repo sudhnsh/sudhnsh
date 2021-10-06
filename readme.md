@@ -6,16 +6,16 @@
 ##  I'm a BE - Computer Science student at Thapar Institute
 
 * 💡  I like to explore new technologies and develop software solutions and quick hacks.
-* 🌱  I'm on track for learning more about Software Engineering, Web Development, and Augmented Reality.
+* 🌱  I'm on track for learning more about Software Engineering, Web Development, and App Development.
 * 👯 I’m looking to collaborate with anyone on projects.
 * 💬  Feel free to reach out to me for some interesting discussion.
 
 ##  Find me on:
 
 <p align="center">
- <a href="https://linkedin.com/in/sudhnsh"><img src="lld2.png" alt="LinkedIn" height="80" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:sudhnsh16@gmail.com"> <img src="gmail.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
- <a href="https://instagram.com/sudhnsh"> <img src="insta.png" alt="Python" height="70" style="vertical-align:top; margin:4px"></a>
+ <a href="https://linkedin.com/in/sudhnsh"><img src="linkedin.png" alt="LinkedIn" height="80" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:sudhnsh16@gmail.com"> <img src="gmail1.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
+ <a href="https://instagram.com/sudhnsh"> <img src="Insta1.png" alt="Instagram" height="70" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
