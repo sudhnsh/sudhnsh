@@ -31,6 +31,8 @@
 </p>
 
 <br />
+## Competetive Programming
+https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/sudhnsh&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400
 
 ## ⚙️  GitHub Analytics
 
