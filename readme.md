@@ -33,7 +33,6 @@
 ## Competetive Programming:
 <p align = "center">
   <img src = "https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/sudhnsh&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400">
- <img src = "https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/sudhanshu1607&prefix=Rating%20&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400" >
  </p>
 
 ##  GitHub Analytics
