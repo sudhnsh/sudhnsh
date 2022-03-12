@@ -32,7 +32,12 @@
 
 ## Competetive Programming:
 <p align = "center">
-  <img src = "https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/sudhnsh&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400">
+  <a href="https://www.codechef.com/users/sudhnsh">
+  <img src = "https://cp-logo.vercel.app/codechef/sudhnsh" height="30">
+ </a>
+    <a href="https://www.codeforces.com/profile/sudhnsh">
+  <img src = "https://cp-logo.vercel.app/codeforces/sudhnsh" height="30">
+ </a>
  </p>
 
 ##  GitHub Analytics
